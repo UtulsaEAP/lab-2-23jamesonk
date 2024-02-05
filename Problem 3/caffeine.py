@@ -1,3 +1,5 @@
+#Kai Jameson
+#Thursday @ 2pm
 
 def caffeine():
     caffeine_mg = float(input())

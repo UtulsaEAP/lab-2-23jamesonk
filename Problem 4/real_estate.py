@@ -1,3 +1,5 @@
+#Kai Jameson
+#Thursday @ 2pm
 
 def real_estate():
     

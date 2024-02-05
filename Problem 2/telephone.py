@@ -1,3 +1,6 @@
+#Kai Jameson
+#Thursday @ 2pm
+
 def telephone():
     phone_number = int(input())
 

@@ -1,3 +1,5 @@
+#Kai Jameson
+#Thursday @ 2pm
 
 def simple_stats():
     num1 = float(input())

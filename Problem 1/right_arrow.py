@@ -1,3 +1,6 @@
+#Kai Jameson
+#Thursday @ 2pm
+
 def right_arrow():
     base_char = input()
     head_char = input()
